@@ -57,4 +57,4 @@ graph.add_node(node3)
 graph.add_node(node4)
 graph.add_node(node5)
 
-graph.dfs(node1)
+graph.dfs(node4)

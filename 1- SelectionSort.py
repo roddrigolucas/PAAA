@@ -17,3 +17,5 @@ def selection_sort(arr):
 arr = [92, 36, 15, 22, 10]
 selection_sort(arr)
 print(arr)
+
+#ordena lista  
