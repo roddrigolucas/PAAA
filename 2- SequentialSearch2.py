@@ -20,3 +20,11 @@ def sequentialsearch2(lista, valor):
 
     return sequentialsearch2_rec(lista, valor, 0) #índice do elemento encontrado ou None, caso contrário
 
+#EXEMPLO
+
+lista=[1,2,20,10,30,40]
+valor=10
+
+imprime=sequentialsearch2(lista, valor)
+
+print(imprime)

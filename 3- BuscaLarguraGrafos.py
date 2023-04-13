@@ -50,7 +50,7 @@ node3.neighbors = [node4, node5]
 node4.neighbors = [node5]
 
 # busca o nó com valor 5 a partir do nó inicial (valor 1)
-result_node = bfs(node1, 5)
+result_node = bfs(node2, 5)
 
 # imprime o resultado
 if result_node:
